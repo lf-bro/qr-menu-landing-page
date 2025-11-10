@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+* {
+  overflow-x: hidden;
+  font-family: "Poppins";
+}
+
+:root {
+  --green: #5cac0e;
+  --black: #000000;
+  --light-black: #333333;
+  --white: #fffcfc;
+}
